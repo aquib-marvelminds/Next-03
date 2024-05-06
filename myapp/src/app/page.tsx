@@ -1,5 +1,6 @@
 import Background from "./components/Background";
 import Hero from "./components/Hero";
+import Services from "./components/Services";
 import Stickyscroll from "./components/Stickyscroll";
 import Testmonial from "./components/Testmonial";
 
@@ -11,6 +12,7 @@ export default function Home() {
         <Background />
         <Stickyscroll />
         <Testmonial />
+        <Services />
       </main>
     </>
   );
