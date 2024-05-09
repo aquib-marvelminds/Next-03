@@ -3,7 +3,8 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-      <div className="md:h-[20rem] flex flex-col md:flex-row justify-evenly items-center md:items-start md:text-left md:space-x-10">
+      <hr />
+      <div className="md:h-[20rem] flex flex-col md:flex-row justify-evenly items-center md:items-start md:text-left md:space-x-10 mt-12">
         <div className="mb-5 md:mb-0">
           <h1 className="text-2xl mb-4">Follow Me On</h1>
           <ul className="text-2md">
@@ -29,7 +30,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-      <h4 className="mt-5 md:mt-10 text-center">
+      <h4 className="mt-5 md:mt-10 text-center mb-11">
         © Copyright. All rights reserved
       </h4>
     </>
