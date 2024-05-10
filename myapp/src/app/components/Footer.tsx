@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <hr />
-      <div className="md:h-[20rem] flex flex-col md:flex-row justify-evenly items-center md:items-start md:text-left md:space-x-10 mt-12">
+      <div className="md:h-[20rem] flex flex-col md:flex-row justify-evenly items-center md:items-start md:text-left md:space-x-10 mt-12 grid-cols-1">
         <div className="mb-5 md:mb-0">
           <h1 className="text-2xl mb-4">Follow Me On</h1>
           <ul className="text-2md">
