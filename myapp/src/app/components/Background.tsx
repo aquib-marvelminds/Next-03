@@ -25,7 +25,7 @@ const Background = () => {
             ABOUT ME
           </h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
-            {`Let's Get Starteddd`}
+            {`Let's Get Started`}
           </p>
         </div>
       </div>
