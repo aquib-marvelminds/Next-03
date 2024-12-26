@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
     setResult("Sending....");
     const formData = new FormData(event.currentTarget);
 
-    formData.append("access_key", "718469a4-de4d-4c89-80ee-f7feeb95b9aa");
+    formData.append("access_key", "875d0884-2bf8-45f3-890e-97d963f7cc95");
 
     const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
@@ -46,9 +46,9 @@ const Contact: React.FC = () => {
               interaction a positive and informative experience!
             </p>
             <ul className="text-white-700">
-              <li className="mb-4">📞 Contact @ +91-6005046534</li>
+              <li className="mb-4">📞 Contact @ +91-6005045066</li>
               <li className="mb-4">🏠 J&K Srinagar, India</li>
-              <li>📥 Email: mehranbhat2001@gmail.com</li>
+              <li>📥 Email: bhataqib604@gmail.com</li>
             </ul>
           </div>
           <div className="contact-details mt-9">

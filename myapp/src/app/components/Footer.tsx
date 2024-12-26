@@ -23,10 +23,10 @@ const Footer = () => {
         <div>
           <h1 className="text-2xl mb-4">Contact Us</h1>
           <ul className="text-2md">
-            <li>London UK</li>
-            <li>J&K, 190002</li>
-            <li>Email: mehranbhat2001@gmail.com</li>
-            <li>Phone: (+91) 6005046534</li>
+            <li>Srinagar</li>
+            <li>J&K, 190005</li>
+            <li>Email: bhataqib604@gmail.com</li>
+            <li>Phone: (+91) 6005045066</li>
           </ul>
         </div>
       </div>

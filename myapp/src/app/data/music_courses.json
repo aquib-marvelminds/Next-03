@@ -2,9 +2,9 @@
   "courses": [
     {
       "id": 1,
-      "title": "Guitar Fundamentals",
+      "title": "HTML-CSS",
       "slug": "guitar-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "description": "I am a passionate web developer knowing the advance concepts of HTML and CSS.",
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
@@ -12,9 +12,9 @@
     },
     {
       "id": 2,
-      "title": "Piano for Beginners",
-      "slug": "piano-for-beginners",
-      "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+      "title": "JAVASCRIPTS",
+      "slug": "Javascript",
+      "description": "I have build many projects by using javascript nad i have vast knowledge about it.",
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
@@ -22,9 +22,9 @@
     },
     {
       "id": 3,
-      "title": "Advanced Vocal Techniques",
+      "title": "JAVASCRIPT",
       "slug": "advanced-vocal-techniques",
-      "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+      "description": "I have build many projects by using javascript nad i have vast knowledge about it.",
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "title": "Drumming Mastery",
+      "title":"REACT-JS",
       "slug": "drumming-mastery",
       "description": "Master the drums with our comprehensive course covering all skill levels.",
       "price": 129.99,
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "title": "Jazz Improvisation",
+      "title": "REACT-JS",
       "slug": "jazz-improvisation",
       "description": "Learn the art of jazz improvisation with this course designed for all levels.",
       "price": 139.99,
@@ -52,9 +52,9 @@
     },
     {
       "id": 6,
-      "title": "Music Production Fundamentals",
+      "title": "REACT-JS",
       "slug": "music-production-fundamentals",
-      "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+      "description": "By using the react-js i have done alot of projects with the help of the hooks in it",
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": true,
@@ -72,9 +72,9 @@
     },
     {
       "id": 8,
-      "title": "Electronic Music Production",
+      "title": "Node-JS",
       "slug": "electronic-music-production",
-      "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+      "description": "Node-js has helped me through the process of making the backend easy and accessible.",
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": true,
@@ -92,10 +92,10 @@
     },
     {
       "id": 10,
-      "title": "Blues Guitar Techniques",
+      "title": "MY-SQL",
       "slug": "blues-guitar-techniques",
-      "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
-      "price": 189.99,
+      "description": "My-sql has helped to interact with the database as it the most important part of a website.",
+      
       "instructor": "Ethan Moore",
       "isFeatured": true,
       "image": "/courses/blues.jpg"

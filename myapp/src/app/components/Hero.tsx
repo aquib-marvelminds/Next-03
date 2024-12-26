@@ -13,20 +13,19 @@ const Hero = () => {
         />
         <div className=" p-4 text-center  mx-auto relative z-10  w-full pt-20 ">
           <h1 className="mt-8 text-4xl md:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
-            Mehran Muzaffar
+            MOHD AAQIB MUSHTAQ
           </h1>
           <p
             className="mt-8 font-normal text-base text-neutral-300  text-center mx-auto"
             style={{ maxWidth: "60rem" }}
           >
-            Remote front-end developer skilled in HTML, CSS, JavaScript ReactJs
-            and Next.js. Efficient in translating designs into responsive
-            interfaces. Collaborative team player with strong communication for
-            successful project outcomes, Adapting to different project
-            requirements and staying abreast of industry trends is a key aspect
-            of my role. Clear communication with stakeholders, whether through
-            video calls, or documentation, is paramount to ensure a shared
-            understanding of project goals and expectations.
+            Full Stack Developer skilled in creating dynamic, responsive web applications
+ with expertise in JavaScript, React, Node.js, and MongoDB. Proficient in both
+ frontend and backend, I design seamless user experiences and build efficient
+ server logic. Experienced in database management and end-to-end
+ development, I deliver robust, scalable solutions. Known for my problem
+ solving approach and collaboration, I’m dedicated to crafting impactful, user
+ centered applications that align with business goals
           </p>
           <div className="mt-8">
             <Button
